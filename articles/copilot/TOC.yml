@@ -2,6 +2,8 @@
   href: index.yml
 - name: Overview
   href: overview.md
+- name: Agentic Chat
+  href: agentic-chat.md
 - name: Concepts
   items:
   - name: Capabilities
